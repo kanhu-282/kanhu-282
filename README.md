@@ -1,7 +1,8 @@
 ![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)
 <h1 align="center">Hi 👋, I'm Kanhu charan maharana</h1>
 <h3 align="center">A passionate Software and MERN Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src =""C:\Users\HP\Downloads\coder-engineer-working-with-his-pc_1293807-8524.avif"">
+<img align="right" alt="coding" width="400" src ="![image](https://github.com/user-attachments/assets/9c4a6596-791a-43fd-a419-c68a8c21c87f)
+">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhu-282&label=Profile%20views&color=0e75b6&style=flat" alt="kanhu-282" /> </p>
 
