@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Kanhu Charan Maharana</h1>
 <h3 align="center">A passionate Software and MERN Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/yourusername/yourrepo/raw/main/yourimage.gif" />
+<img align="right" alt="coding" width="400" src="https://github.com/kanhu-282/kanhu-282/raw/main/coding.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kanhu-282&label=Profile%20views&color=0e75b6&style=flat" alt="kanhu-282" /> 
- 
 </p>
 
 - 🌱 I’m currently learning **Java, DSA, MongoDB**
@@ -16,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kanhu-charan-maharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhu-charan-maharana" height="30" width="40" /></a>
-  <a href="https://instagram.com/itz__aman_.005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz__aman_.005/" height="30" width="40" /></a>
-  <a href="https://discord.gg/kanhu_ch_maharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kanhu_ch_maharana" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kanhu-charan-maharana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhu-charan-maharana" height="30" width="40" /></a>
+  <a href="https://instagram.com/itz__aman_.005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz__aman_.005/" height="30" width="40" /></a>
+  <a href="https://discord.gg/kanhu_ch_maharana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kanhu_ch_maharana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,8 +35,20 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanhu-282&show_icons=true&locale=en&layout=compact" alt="kanhu-282" /></p>
+<h3 align="left">🚀 Projects:</h3>
+<ul>
+  <li>🌐 <a href="https://github.com/kanhu-282/Airbnb-Full-Stack-Development-Project">Airbnb Full-Stack Development Project</a></li>
+  <li>🎵 <a href="https://github.com/kanhu-282/SPOTIFY-CLONE">Spotify Clone</a></li>
+  <li>📈 <a href="https://github.com/kanhu-282/Full-stack-stock-Trading-Platform">Full-stack Stock Trading Platform</a></li>
+  <li>☀️ <a href="https://github.com/kanhu-282/Weather-widget-using-Material-UI">Weather Widget (Material-UI)</a></li>
+  <li>🎨 <a href="https://github.com/kanhu-282/3D-Animation">3D Animation</a></li>
+  <li>📚 <a href="https://github.com/kanhu-282/Basic-to-advanced-javascript-programming">Basic to Advanced JavaScript Programming</a></li>
+  <li>🌱 <a href="https://github.com/kanhu-282/Spring-react">Spring React Project</a></li>
+  <li>💳 <a href="https://github.com/kanhu-282/ATM">ATM Simulation Project</a></li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanhu-282&show_icons=true&locale=en" alt="kanhu-282" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanhu-282&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kanhu-282" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanhu-282&" alt="kanhu-282" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanhu-282&show_icons=true&locale=en&theme=tokyonight" alt="kanhu-282" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanhu-282&theme=tokyonight" alt="kanhu-282" /></p>
