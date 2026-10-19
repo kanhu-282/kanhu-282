@@ -1,3 +1,4 @@
+![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)
 
 <h1 align="center">Hi 👋, I'm Kanhu Charan Maharana</h1>
 <h3 align="center">A passionate Software and java full Stack developer from India</h3>
