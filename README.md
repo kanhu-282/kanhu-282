@@ -9,13 +9,22 @@
   <img src="https://komarev.com/ghpvc/?username=kanhu-282&label=Profile%20views&color=0e75b6&style=flat" alt="kanhu-282" /> 
 </p>
 
-- 🌱 I’m currently learning **Java, DSA, MongoDB**
-- 💬 Ask me about **Core Java, MERN, Frontend development**
-- 📫 How to reach me **kanhuaman282@gmail.com**
+- 🌱 I’m currently learning Java, DSA, Spring Boot, Microservices, REST APIs, SQL, AWS, Docker, Kubernetes, and Apache Kafka.
+- 💬 Ask me about Core Java, OOP, Java 8, Collections, Streams, Lambda Expressions, Multithreading, Spring Boot, REST APIs, Microservices, JPA, Hibernate, Spring Security, JWT, SQL, React.js, Angular, and Full-Stack Development.
+- 🛠️ Languages: Java, JavaScript, Python, SQL, HTML, CSS
+- 🚀 Backend: Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, Microservices, Node.js, Express.js
+- 🎨 Frontend: React.js, Angular, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+- 🗄️ Databases: MySQL, PostgreSQL, MongoDB, Oracle
+- ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, CI/CD, Linux
+- 📨 Messaging: Apache Kafka
+- 🔐 Security: Spring Security, JWT
+- 🧪 Testing: JUnit, Mockito, Postman, API Testing
+- 🔧 Tools: Git, GitHub, Maven, Eclipse, Spring Tool Suite, VS Code, MySQL Workbench
+- 📚 Core Concepts: DSA, OOP, Multithreading, Exception Handling, Collections, Agile/Scrum
+- 📈 Interested in building scalable, secure, and high-performance enterprise applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kanhu-charan-maharana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhu-charan-maharana" height="30" width="40" /></a>
   <a href="https://instagram.com/itz__aman_.005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz__aman_.005/" height="30" width="40" /></a>
   <a href="https://discord.gg/kanhu_ch_maharana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kanhu_ch_maharana" height="30" width="40" /></a>
 </p>
